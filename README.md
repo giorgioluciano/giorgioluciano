@@ -8,9 +8,19 @@ I'm a researcher with a Ph.D. in Materials Science, currently working at the Ita
 - 🖌️ **Blend Files**: I also share some of my "blend" files, which represent 3D projects I have created for research purposes or simply out of passion. Feel free to explore, modify, or use them for your own purposes.
 - ✏️ **Various Doodles**: Here, you will find a collection of my drawings and sketches created during my free time. I am always open to new challenges and interesting ideas, so if you have any suggestions or requests, please don't hesitate to reach out!
 
+## Programming Languages and Concepts
+
+I am proficient in the following programming languages and concepts:
+
+- <img src="python_icon.png" alt="Python" width="20"/> Python: I have experience in Python programming and use it for various tasks, including data analysis, visualization, and scientific computing.
+
+- 📊 Statistics: I have a solid understanding of statistical concepts and their practical application in research and data analysis.
+
 ## How to Contribute
 
 I am always excited to collaborate with other creative minds! If you would like to contribute to any of my projects or propose new ideas, I would be happy to discuss them. You can open a new issue here on the repository or contact me directly via email.
+
+## Contact Information
 
 ## Contact Information
 
