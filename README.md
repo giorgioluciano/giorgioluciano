@@ -12,7 +12,7 @@ I'm a researcher with a Ph.D. in Materials Science, currently working at the Ita
 
 I am proficient in the following programming languages and concepts:
 
-- <img src="python_icon.png" alt="Python" width="20"/> Python: I have experience in Python programming and use it for various tasks, including data analysis, visualization, and scientific computing.
+- 💻 Python: I have experience in Python programming and use it for various tasks, including data analysis, visualization, and scientific computing.
 
 - 📊 Statistics: I have a solid understanding of statistical concepts and their practical application in research and data analysis.
 
