@@ -22,8 +22,6 @@ I am always excited to collaborate with other creative minds! If you would like 
 
 ## Contact Information
 
-## Contact Information
-
 - 📧 Email: [your.email@example.com](mailto:giorgio.luciano@cnr.it)
 - 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/giorgioluciano)
 
