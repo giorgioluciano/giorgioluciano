@@ -14,7 +14,7 @@ I am proficient in the following programming languages and concepts:
 
 - 💻 Python: I have experience in Python programming and use it for various tasks, including data analysis, visualization, and scientific computing.
 
-- 📊 Statistics: I have a solid understanding of statistical concepts and their practical application in research and data analysis.
+- 📊 Statistics: I have a good understanding of statistical concepts and their practical application in research and data analysis.
 
 ## How to Contribute
 
