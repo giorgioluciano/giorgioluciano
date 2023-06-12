@@ -22,7 +22,7 @@ I am always excited to collaborate with other creative minds! If you would like 
 
 ## Contact Information
 
-- 📧 Email: [your.email@example.com](mailto:giorgio.luciano@cnr.it)
-- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/giorgioluciano)
+- 📧 Email: [giorgio.luciano@cnr.it](mailto:giorgio.luciano@cnr.it)
+- 💼 LinkedIn: [giorgioluciano](https://www.linkedin.com/in/giorgioluciano)
 
 I look forward to connecting with fellow developers, researchers, and enthusiasts in the fields of materials science and scientific illustrations!
