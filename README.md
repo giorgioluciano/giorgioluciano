@@ -4,7 +4,7 @@ I'm a researcher with a Ph.D. in Materials Science, currently working at the Ita
 
 ## Repository Contents
 
-- 💻 **Spaghetti Code Tutorials**: I have created a series of tutorials that will guide you through writing clean and efficient code. These tutorials are designed to help both beginners and experienced developers improve their programming skills.
+- 💻 **Spaghetti Code Tutorials**: I have created a series of tutorials that will guide you through writing clean and efficient code but also spaghetti code. These tutorials are designed to help both beginners and experienced developers improve their programming skills.
 - 🖌️ **Blend Files**: I also share some of my "blend" files, which represent 3D projects I have created for research purposes or simply out of passion. Feel free to explore, modify, or use them for your own purposes.
 - ✏️ **Various Doodles**: Here, you will find a collection of my drawings and sketches created during my free time. I am always open to new challenges and interesting ideas, so if you have any suggestions or requests, please don't hesitate to reach out!
 
